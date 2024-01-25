@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br />
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> -->
   <br />
   <br />
 <h3> 🛠 TOOLS 🛠 </h3>
@@ -31,9 +31,9 @@
   <br />
   <br />
   <br />
-<a href="https://wiken.io/b/8577">
+<!-- <a href="https://wiken.io/b/8577">
   <img src="https://img.shields.io/badge/wiken-7231cc?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
+</a> -->
   <br />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftooffuu%2Fhit-counter&count_bg=%238BCF57&title_bg=%23555555&icon=&icon_color=%23C10000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
